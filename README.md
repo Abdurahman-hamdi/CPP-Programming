@@ -1,2 +1,2 @@
 # Embedded-CPP-Programming-
-It's educational repo to apply C++ concepts specially modern C++ onMCUs..
+It's educational repo to apply C++ concepts specially modern C++ oMCUs..
