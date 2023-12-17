@@ -21,12 +21,17 @@ namespace IO
 			}
 	
 		GPIO(const GPIO& )=delete;//ports cann't be copied into each other as they are not same
+		GPIO(GPIO&& )	=delete;//neither to be moved to another port
 
 
-		~GPIO()
+		type& portaccess()
 		{
-			//TBD
+			return port;
 		}
+		~GPIO()
+			{
+				//TBD
+			}
 	private:	
 	// a poiter to the object that will perform all the acticvties of conguired port whatever uart, adc..etc
 		std::unique_ptr<type> port; 
