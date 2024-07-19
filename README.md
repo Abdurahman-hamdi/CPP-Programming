@@ -1,5 +1,5 @@
 # CPP-Programming-
-It's educational repo to apply C++ concepts specially modern C++ on MCUs..
+It's educational repo to apply C++ concepts specially modern C++ on MCUs and many more..
 
 To enable gtest and gmock, googletest directory is needed to be delated and git cloned from github repo, and follow the link below to enable both librarys and get them integerated with you Cpp APP.
 check Alex Reinking's ccomment
