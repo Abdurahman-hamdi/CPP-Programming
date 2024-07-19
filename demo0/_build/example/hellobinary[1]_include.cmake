@@ -1,5 +1,5 @@
-if(EXISTS "/home/abdulrahman/cppworks/unittesting/_build/example/hellobinary[1]_tests.cmake")
-  include("/home/abdulrahman/cppworks/unittesting/_build/example/hellobinary[1]_tests.cmake")
+if(EXISTS "/home/abdulrahman/cppworks/demo0/_build/example/hellobinary[1]_tests.cmake")
+  include("/home/abdulrahman/cppworks/demo0/_build/example/hellobinary[1]_tests.cmake")
 else()
   add_test(hellobinary_NOT_BUILT hellobinary_NOT_BUILT)
 endif()

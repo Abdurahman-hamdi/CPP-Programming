@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/abdulrahman/cppworks/unittesting/calc.cpp" "CMakeFiles/hellobinaryapp.dir/calc.cpp.o" "gcc" "CMakeFiles/hellobinaryapp.dir/calc.cpp.o.d"
-  "/home/abdulrahman/cppworks/unittesting/main.cpp" "CMakeFiles/hellobinaryapp.dir/main.cpp.o" "gcc" "CMakeFiles/hellobinaryapp.dir/main.cpp.o.d"
+  "/home/abdulrahman/cppworks/demo0/calc.cpp" "CMakeFiles/hellobinaryapp.dir/calc.cpp.o" "gcc" "CMakeFiles/hellobinaryapp.dir/calc.cpp.o.d"
+  "/home/abdulrahman/cppworks/demo0/main.cpp" "CMakeFiles/hellobinaryapp.dir/main.cpp.o" "gcc" "CMakeFiles/hellobinaryapp.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
