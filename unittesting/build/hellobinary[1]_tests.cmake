@@ -1,5 +1,0 @@
-add_test([=[TEST_SUIT1.TESTCASE1]=]  /home/abdurrahman/Desktop/unittesting/build/hellobinary [==[--gtest_filter=TEST_SUIT1.TESTCASE1]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[TEST_SUIT1.TESTCASE1]=]  PROPERTIES WORKING_DIRECTORY /home/abdurrahman/Desktop/unittesting/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-add_test([=[TEST_SUIT1.TESTCASE2]=]  /home/abdurrahman/Desktop/unittesting/build/hellobinary [==[--gtest_filter=TEST_SUIT1.TESTCASE2]==] --gtest_also_run_disabled_tests)
-set_tests_properties([=[TEST_SUIT1.TESTCASE2]=]  PROPERTIES WORKING_DIRECTORY /home/abdurrahman/Desktop/unittesting/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
-set(  hellobinary_TESTS TEST_SUIT1.TESTCASE1 TEST_SUIT1.TESTCASE2)

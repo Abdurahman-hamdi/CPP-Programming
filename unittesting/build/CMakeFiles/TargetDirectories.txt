@@ -1,5 +1,0 @@
-/home/abdurrahman/Desktop/unittesting/build/CMakeFiles/hellobinary.dir
-/home/abdurrahman/Desktop/unittesting/build/CMakeFiles/hellobinaryapp.dir
-/home/abdurrahman/Desktop/unittesting/build/CMakeFiles/test.dir
-/home/abdurrahman/Desktop/unittesting/build/CMakeFiles/edit_cache.dir
-/home/abdurrahman/Desktop/unittesting/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/hellobinaryapp.dir/calc.cpp.o CMakeFiles/hellobinaryapp.dir/main.cpp.o -o hellobinaryapp

@@ -1,5 +1,0 @@
-if(EXISTS "/home/abdurrahman/Desktop/unittesting/build/hellobinary[1]_tests.cmake")
-  include("/home/abdurrahman/Desktop/unittesting/build/hellobinary[1]_tests.cmake")
-else()
-  add_test(hellobinary_NOT_BUILT hellobinary_NOT_BUILT)
-endif()
