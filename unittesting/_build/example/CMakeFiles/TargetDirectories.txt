@@ -1,0 +1,5 @@
+/home/abdulrahman/cppworks/unittesting/_build/example/CMakeFiles/hellobinary.dir
+/home/abdulrahman/cppworks/unittesting/_build/example/CMakeFiles/hellobinaryapp.dir
+/home/abdulrahman/cppworks/unittesting/_build/example/CMakeFiles/test.dir
+/home/abdulrahman/cppworks/unittesting/_build/example/CMakeFiles/edit_cache.dir
+/home/abdulrahman/cppworks/unittesting/_build/example/CMakeFiles/rebuild_cache.dir
